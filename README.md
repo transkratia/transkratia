@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thalia!
+- 👋 Hi, I’m Emma!
 - 👀 I’m interested in anime, gaming and more...
 - 🌱 I’m currently learning Python.
 - 💞️ I'm do not looking to collaborate on anything
